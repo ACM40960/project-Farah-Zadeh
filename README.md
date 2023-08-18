@@ -3,7 +3,7 @@
 
 
 
-![Global Anomaly Gif](images/WorldAnomaly2.png)
+![Global Anomaly](https://github.com/ACM40960/project-SudeepDamodaranUcd/blob/main/images/WorldAnomaly2.png)
 
 ## Table of Contents
 
