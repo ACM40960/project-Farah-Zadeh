@@ -3,7 +3,8 @@
 
 
 
-![Global Anomaly](https://github.com/ACM40960/project-SudeepDamodaranUcd/blob/main/images/WorldAnomaly2.png)
+![image](https://github.com/ACM40960/project-SudeepDamodaranUcd/assets/117033852/2f7f3943-42db-4564-8282-5e69e714c399)
+
 
 ## Table of Contents
 
@@ -99,10 +100,11 @@ ncfile <- nc_open("HadISST_sst.nc")
 
 ## Visualization
 
-![Global Anomaly](images/AnomalyYear3.png)
-![CO2 vs Temperature](images/Temp_Co2.png)
-![Solar](images/Solar.png)
-![VolcanoCount](images/VolcanoCount.png)
+![image](https://github.com/ACM40960/project-SudeepDamodaranUcd/assets/117033852/7f6ea11b-6026-4360-83b7-dda4bac0f9e3)
+![image](https://github.com/ACM40960/project-SudeepDamodaranUcd/assets/117033852/3769fc37-b056-4cf4-909b-745444be4b83)
+![image](https://github.com/ACM40960/project-SudeepDamodaranUcd/assets/117033852/eede99e7-ee82-4ee5-bbfe-6b2a2f29a756)
+![image](https://github.com/ACM40960/project-SudeepDamodaranUcd/assets/117033852/0e15b834-9f0f-45ab-9338-121542a2a7e3)
+
 
 
 ## Conclusion
