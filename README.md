@@ -1,9 +1,9 @@
 
 # Climate Change Attribution: Analysis of the Effects of CO2, Solar Irradiance, and Volcanoes on Global Temperature Trends
 
-
-
-![image](https://github.com/ACM40960/project-SudeepDamodaranUcd/assets/117033852/2f7f3943-42db-4564-8282-5e69e714c399)
+<p align="center">
+    <img src="https://github.com/ACM40960/project-SudeepDamodaranUcd/assets/117033852/2f7f3943-42db-4564-8282-5e69e714c399" alt="image">
+</p>
 
 
 ## Table of Contents
@@ -100,11 +100,12 @@ ncfile <- nc_open("HadISST_sst.nc")
 
 ## Visualization
 
-![image](https://github.com/ACM40960/project-SudeepDamodaranUcd/assets/117033852/7f6ea11b-6026-4360-83b7-dda4bac0f9e3)
-![image](https://github.com/ACM40960/project-SudeepDamodaranUcd/assets/117033852/3769fc37-b056-4cf4-909b-745444be4b83)
-![image](https://github.com/ACM40960/project-SudeepDamodaranUcd/assets/117033852/eede99e7-ee82-4ee5-bbfe-6b2a2f29a756)
-![image](https://github.com/ACM40960/project-SudeepDamodaranUcd/assets/117033852/0e15b834-9f0f-45ab-9338-121542a2a7e3)
-
+<p align="center">
+<img src="https://github.com/ACM40960/project-SudeepDamodaranUcd/assets/117033852/7f6ea11b-6026-4360-83b7-dda4bac0f9e3" alt="image">
+<img src="https://github.com/ACM40960/project-SudeepDamodaranUcd/assets/117033852/3769fc37-b056-4cf4-909b-745444be4b83" alt="image">
+<img src="https://github.com/ACM40960/project-SudeepDamodaranUcd/assets/117033852/eede99e7-ee82-4ee5-bbfe-6b2a2f29a756" alt="image">
+<img src="https://github.com/ACM40960/project-SudeepDamodaranUcd/assets/117033852/0e15b834-9f0f-45ab-9338-121542a2a7e3" alt="image">
+</p>
 
 
 ## Conclusion
